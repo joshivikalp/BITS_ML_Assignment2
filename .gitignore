@@ -1,0 +1,8 @@
+.venv_pdf/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Archive.zip
+ML_Assignment_2.pdf
+ML_Assignment_2_extracted.txt
