@@ -69,8 +69,20 @@ project-folder/
 ├── pipeline_utils.py
 ├── requirements.txt
 ├── README.md
+├── test_data.csv
 ├── data/
+│   ├── spambase.data
+│   ├── spambase_full.csv
+│   ├── test_data.csv
+│   └── train_data.csv
 └── model/
+    ├── benchmark_metrics.csv
+    ├── benchmark_metrics.json
+    ├── logistic_regression.joblib
+    ├── decision_tree.joblib
+    ├── knn.joblib
+    ├── naive_bayes.joblib
+    └── random_forest.joblib
 ```
 
 ## How to Run
